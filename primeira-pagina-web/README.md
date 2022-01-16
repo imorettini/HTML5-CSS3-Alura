@@ -19,3 +19,19 @@ Repositório com as informações e atividades abordadas no curso "HTML5 e CSS3 
 - [x] Como definir o título de uma página, através da tag title
 - [x] Como separar as informações que estão sendo passadas para o navegador, utilizando a tag head
 - [x] omo separar o conteúdo da página, utilizando a tag body
+
+
+### Aula 3
+- [x] Mexer na apresentação dos textos
+- [x] No alinhamento deles (text-align)
+- [x] No tamanho da fonte (font-size)
+- [x] Na cor de fundo (background)
+- [x] Na cor do texto (color)
+- [x] CSS inline
+- [x] Na linha onde temos a nossa tag, adicionamos a propriedade do CSS
+- [x] A tag style
+- [x] Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML
+- [x] A apresentação do CSS com um arquivo externo
+- [x] Como funciona o estilo em cascata do CSS
+- [x] Como importar um arquivo externo de CSS dentro da nossa página HTML
+- [x] Como representar cores no CSS - Através do nome da cor | Através do seu hexadecimal | Através do seu RGB
