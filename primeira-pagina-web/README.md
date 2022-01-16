@@ -35,3 +35,14 @@ Repositório com as informações e atividades abordadas no curso "HTML5 e CSS3 
 - [x] Como funciona o estilo em cascata do CSS
 - [x] Como importar um arquivo externo de CSS dentro da nossa página HTML
 - [x] Como representar cores no CSS - Através do nome da cor | Através do seu hexadecimal | Através do seu RGB
+
+### Aula 4
+- [x] Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo
+- [x] Como criar um identificador para marcar especificamente um elemento
+- [x] Como fazer referência a esse identificador no CSS
+- [x] Como adicionar uma imagem à nossa página
+- [x] Como ajustar a altura do elemento, através da propriedade height
+- [x] Como ajustar a largura do elemento, através da propriedade width
+- [x] Como ajustar o espaçamento interno do elemento, através da propriedade padding
+- [x] Como ajustar o espaçamento externo do elemento, através da propriedade margin
+- [x] Como se comporta um time de front-end hoje em dia
