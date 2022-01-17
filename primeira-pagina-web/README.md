@@ -46,3 +46,12 @@ Repositório com as informações e atividades abordadas no curso "HTML5 e CSS3 
 - [x] Como ajustar o espaçamento interno do elemento, através da propriedade padding
 - [x] Como ajustar o espaçamento externo do elemento, através da propriedade margin
 - [x] Como se comporta um time de front-end hoje em dia
+
+### Aula 5
+- [x] Trabalhar com listas não-ordenadas e listas ordenadas
+- [x] Para cada um dos itens da lista, utilizamos a tag li
+- [x] O conceito das classes no CSS
+- [x] Elas servem para marcar itens, que são repetíveis
+- [x] Como referenciar uma classe no CSS
+- [x] Divisões de conteúdo, utilizando a tag div
+- [x] Os comportamentos inline e block
