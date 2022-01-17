@@ -55,3 +55,9 @@ Repositório com as informações e atividades abordadas no curso "HTML5 e CSS3 
 - [x] Como referenciar uma classe no CSS
 - [x] Divisões de conteúdo, utilizando a tag div
 - [x] Os comportamentos inline e block
+
+### Aula 6 
+- [x] Conceito de cabeçalho da página e como criá-lo
+- [x] Que o cabeçalho da página deve ter mais destaque
+- [x] Que não é recomendado criar estilos usando tags
+- [x] O ideal é usarmos classes para tudo
