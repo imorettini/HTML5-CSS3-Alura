@@ -1,7 +1,8 @@
-# Anotações gerais
+# Formação Frontend Alura: HTML 5 e CSS3
 
-### Iniciado em 16/01/2022
-Repositório com as informações e atividades abordadas no curso "HTML5 e CSS3 parte 1: A primeira página da Web" da Alura
+# HTML5 e CSS3 parte 1: A primeira página da Web
+
+### Finalizado em 16/01/2022
 
 ### Aula 1 
 - [x] Uma introdução ao HTML e às suas tags
@@ -19,7 +20,6 @@ Repositório com as informações e atividades abordadas no curso "HTML5 e CSS3 
 - [x] Como definir o título de uma página, através da tag title
 - [x] Como separar as informações que estão sendo passadas para o navegador, utilizando a tag head
 - [x] omo separar o conteúdo da página, utilizando a tag body
-
 
 ### Aula 3
 - [x] Mexer na apresentação dos textos
@@ -61,3 +61,6 @@ Repositório com as informações e atividades abordadas no curso "HTML5 e CSS3 
 - [x] Que o cabeçalho da página deve ter mais destaque
 - [x] Que não é recomendado criar estilos usando tags
 - [x] O ideal é usarmos classes para tudo
+
+
+# HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
