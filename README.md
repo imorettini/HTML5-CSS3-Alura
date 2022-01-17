@@ -72,3 +72,10 @@
 - [x] Uma revisão do conteúdo aprendido no treinamento anterior
 - [x] Uma revisão da base de uma página HTML
 - [x] Lista HTML não ordenada
+
+### Aula 2 
+- [x] Criar links para outras páginas, sejam elas do nosso projeto ou páginas externas
+- [x] Um reforço aos estilos inline e block
+- [x] Como transformar o texto para ter todas as letras maiúsculas
+- [x] Como deixar o texto em negrito com CSS
+- [x] Como remover a decoração do texto
