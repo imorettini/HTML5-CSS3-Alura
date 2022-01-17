@@ -96,6 +96,3 @@
 - [x] Através do CSS, aplicar bordas nos elementos.
 - [x] Os diferentes tipos de bordas.
 - [x] A deixar a borda arredondada.
-
-
-teste3
