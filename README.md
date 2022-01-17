@@ -79,3 +79,9 @@
 - [x] Como transformar o texto para ter todas as letras maiúsculas
 - [x] Como deixar o texto em negrito com CSS
 - [x] Como remover a decoração do texto
+
+
+### Aula 3
+- [x] Como remover os estilos que o navegador cria automaticamente
+- [x] Como funciona os posicionamentos static, relative e absolute dos elementos
+- [x] Como posicionar o cabeçalho da nossa página
