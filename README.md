@@ -65,7 +65,7 @@
 
 # HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
 
-### Iniciado em 17/01/2022
+### Finalizado em 17/01/2022
 
 ### Aula 1 
 - [x] Uma introdução ao projeto do treinamento
