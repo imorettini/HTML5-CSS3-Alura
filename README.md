@@ -109,3 +109,14 @@
 - [x] Que, com CSS, podemos colocar uma imagem de fundo em um elemento
 - [x] Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
 - [x] A tabela Unicode
+
+# HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
+
+### Iniciado em 17/12/2022
+
+### Aula 1
+- [x] Uma revisão do conteúdo aprendido no treinamento anterior
+- [x] Uma introdução ao projeto do treinamento
+- [x] A criação da página de contato
+- [x] Um pouco sobre os formulários
+
