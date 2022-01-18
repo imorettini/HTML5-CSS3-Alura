@@ -112,7 +112,7 @@
 
 # HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 
-### Iniciado em 17/12/2022
+### Finalizado em 18/12/2022
 
 ### Aula 1
 - [x] Uma revisão do conteúdo aprendido no treinamento anterior
@@ -154,5 +154,17 @@
 - [x] A realizar transições nos nossos elementos, com a propriedade CSS transition
 - [x] A modificar o estilo do ponteiro do mouse, quando passar por cima de determinado elemento, através da propriedade CSS cursor
 - [x] A realizar transformações nos nossos elementos, como aumentar proporcionalmente a escala de determinado elemento ou rotacioná-lo, através da propriedade CSS transform
+
+### Aula 6
+- [x] A criar uma tabela HTML
+- [x] A tag table, que representa a tabela
+- [x] A tag tr, que representa a linha da tabela
+- [x] A tag td, que representa a célula da tabela
+- [x] A tag thead, que representa o cabeçalho da tabela
+- [x] A tag tbody, que representa o corpo da tabela
+- [x] A tag th, que representa a célula do cabeçalho da tabela
+- [x] A tag tfoot, que representa o rodapé da tabela
+- [x] A estilizar a tabela
+
 
 
