@@ -110,7 +110,7 @@
 - [x] Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
 - [x] A tabela Unicode
 
-# HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
+# HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 
 ### Iniciado em 17/12/2022
 
