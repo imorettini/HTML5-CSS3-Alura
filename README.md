@@ -2,6 +2,7 @@
 
 # HTML5 e CSS3 parte 1: A primeira página da Web
 
+### Iniciado em 16/01/2022
 ### Finalizado em 16/01/2022
 
 ### Aula 1 
@@ -65,6 +66,7 @@
 
 # HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
 
+### Iniciado em 17/01/2022
 ### Finalizado em 17/01/2022
 
 ### Aula 1 
@@ -112,6 +114,7 @@
 
 # HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 
+### Iniciado em 17/12/2022
 ### Finalizado em 18/12/2022
 
 ### Aula 1
