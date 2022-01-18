@@ -120,3 +120,14 @@
 - [x] A criação da página de contato
 - [x] Um pouco sobre os formulários
 
+### Aula 2
+- [x] Criar um formulário HTML
+- [x] A tag que o representa é a form
+- [x] A tag input, para a entrada de dados do usuário
+- [x] A criar uma etiqueta para o input, com a tag label
+- [x] A conectar um input com o seu label
+- [x] Colocamos um id para o input e associamos esse id ao atributo for do label
+- [x] Alguns tipos de input, como text e submit
+- [x] Que label possui o display inline e o input possui display inline-block
+- [x] A estilizar o nosso formulário
+
