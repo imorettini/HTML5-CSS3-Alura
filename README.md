@@ -141,3 +141,12 @@
 - [x] Como funciona a hierarquia no CSS
 - [x] O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor
 
+### Aula 4
+- [x] Alguns tipos de inputs para celular: email, tel, number, password, date, datetime, month e search
+- [x] Como não permitir que um campo não seja preenchido, através do atributo required
+- [x] Como exibir uma sugestão de preenchimento para os campos, através do atributo placeholder
+- [x] Como deixar uma opção marcada por padrão nos nossos input radio e checkbox, através do atributo checked
+- [x] Como estruturar melhor o nosso código com fieldset e legend
+- [x] Como adicionar uma alternativa à imagem, descrevendo-a, com o atributo alt
+
+
