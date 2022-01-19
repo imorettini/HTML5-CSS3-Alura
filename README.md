@@ -181,3 +181,7 @@
 - [x] Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS
 - [x] Como limpar o float, com a propriedade clear do CSS
 
+### Aula 2
+- [x] Utilizar fontes externas nas nossas páginas
+- [x] Como incorporar um mapa à nossa página
+- [x] Como incorporar um vídeo à nossa página
