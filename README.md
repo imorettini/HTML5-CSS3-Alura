@@ -114,8 +114,8 @@
 
 # HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 
-### Iniciado em 17/12/2022
-### Finalizado em 18/12/2022
+### Iniciado em 17/01/2022
+### Finalizado em 18/01/2022
 
 ### Aula 1
 - [x] Uma revisão do conteúdo aprendido no treinamento anterior
@@ -170,4 +170,14 @@
 - [x] A estilizar a tabela
 
 
+#  HTML5 e CSS3 parte 4: Avançando no CSS
+
+### Iniciado em 19/01/2022
+### Finalizado em 
+
+### Aula 1
+- [x] A ajustar a página principal para utilizar os mesmos padrões da página de produtos
+- [x] Medidas proporcionais com CSS
+- [x] Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS
+- [x] Como limpar o float, com a propriedade clear do CSS
 
