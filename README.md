@@ -185,3 +185,9 @@
 - [x] Utilizar fontes externas nas nossas páginas
 - [x] Como incorporar um mapa à nossa página
 - [x] Como incorporar um vídeo à nossa página
+
+### Aula 3
+- [x] Melhorar mais ainda a semântica da página principal, com novas divisões, classes, etc
+- [x] Novas pseudo-classes
+- [x] Como aplicar um background gradiente na página
+- [x] Pseudo-elementos
