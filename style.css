@@ -169,7 +169,8 @@ th {
     text-align: center;
     font-size: 2em; /* 2x o tamanho da fonte base */
     margin: 0 0 1em;
-    clear: left; /* limpar o comportamento do floar*/
+    clear: left; /* limpar o comportamento do float*/
+    /* text-shadow: 2px 2px #F00000; */
 }
 
 /* .titulo-principal:first-letter {
@@ -235,6 +236,13 @@ th {
 
 .imagem-beneficios {
     width: 60%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.imagem-beneficios:hover{
+    opacity: 0.3;
 }
 
 .utensilios {

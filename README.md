@@ -199,3 +199,9 @@
 - [x] Seletor ~, para acessar todos os irmãos de determinado elemento. Por exemplo, para acessar todos os p após um img
 - [x] Seletor not, para acessar os elementos, exceto algum. Por exemplo, para acessar todos os p dentro de main, exceto o p que tem id missao
 - [x] Como fazer contas com CSS, com a propriedade calc
+
+### Aula 5
+- [x] Como manipular a opacidade dos elementos, com a propriedade CSS opacity
+- [x] Como manipular a opacidade das cores
+- [x] Como adicionar um sombreamento em volta dos elementos, com a propriedade CSS box-shadow
+- [x] Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow
