@@ -251,7 +251,7 @@ th {
     font-weight: bold;
 }
 
-.itens:before{
+.itens:before {
     content: "★ ";
 }
 
@@ -259,3 +259,23 @@ th {
     width: 560px;
     margin: 2em auto;
 }
+
+/* anotações */ 
+
+/* main > p{
+    background: red; seleciona o primeiro filho p direto do elemento main
+}
+
+img + p {
+    background: blue; seleciona o primeiro fiho p após o elemento img
+}
+
+img ~ p {
+    background: yellow; seleciona todos os elementos p após o elemento img
+} */
+
+/* .principal p:not(#missao){
+    background: orange; seleciona todos os elementos p que nao estao na #missao
+} */
+
+

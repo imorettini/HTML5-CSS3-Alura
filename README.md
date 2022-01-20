@@ -191,3 +191,11 @@
 - [x] Novas pseudo-classes
 - [x] Como aplicar um background gradiente na página
 - [x] Pseudo-elementos
+
+### Aula 4
+- [x] Seletores avançados CSS
+- [x] Seletor >, para acessar os filhos de determinado elemento. Por exemplo, para acessar todos os p dentro de main
+- [x] Seletor +, para acessar o primeiro irmão de determinado elemento. Por exemplo, para acessar o primeiro p após um img
+- [x] Seletor ~, para acessar todos os irmãos de determinado elemento. Por exemplo, para acessar todos os p após um img
+- [x] Seletor not, para acessar os elementos, exceto algum. Por exemplo, para acessar todos os p dentro de main, exceto o p que tem id missao
+- [x] Como fazer contas com CSS, com a propriedade calc
