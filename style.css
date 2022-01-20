@@ -241,7 +241,7 @@ th {
     box-shadow: 10px 10px 10px 0 #000000;
 }
 
-.imagem-beneficios:hover{
+.imagem-beneficios:hover {
     opacity: 0.3;
 }
 
@@ -268,7 +268,41 @@ th {
     margin: 2em auto;
 }
 
-/* anotações */ 
+/*media query*/
+
+@media screen and (max-width: 480px) {
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video,
+    .produtos,
+    .caixa-principal {
+        width: auto;
+    }
+
+    h1,
+    form {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    .lista-beneficios,
+    .imagem-beneficios,
+    .produtos li,
+    table {
+        width: 100%;
+    }
+
+    .input-padrao{
+        width: 85%;
+    }
+}
+
+/* anotações */
 
 /* main > p{
     background: red; seleciona o primeiro filho p direto do elemento main
@@ -285,5 +319,3 @@ img ~ p {
 /* .principal p:not(#missao){
     background: orange; seleciona todos os elementos p que nao estao na #missao
 } */
-
-
